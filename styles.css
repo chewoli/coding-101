@@ -1,0 +1,27 @@
+
+        body{
+width: 80%;
+margin: 0 auto;
+background-color: rgb(129, 170, 57);
+padding: 20px;
+        
+
+   }
+   
+.geom-uniquifier {
+  font-family: "Geom", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+  ul{ background-color: forestgreen; color: darkkhaki; padding: 10px;
+   }
+
+     .msgsümsgsü{
+    width: 70%;
+    float: left;
+    padding: 10px;
+    background-color: rgb(152, 179, 130);
+}
+
+    
