@@ -7,7 +7,7 @@ padding: 20px;
         
 
    }
-   
+
 .geom-uniquifier {
   font-family: "Geom", sans-serif;
   font-optical-sizing: auto;
@@ -16,6 +16,10 @@ padding: 20px;
 }
   ul{ background-color: forestgreen; color: darkkhaki; padding: 10px;
    }
+   .highlight{
+    background-color: aquamarine;
+    color: rgb(112, 66, 77);
+   }
 
      .msgsümsgsü{
     width: 70%;
@@ -23,5 +27,19 @@ padding: 20px;
     padding: 10px;
     background-color: rgb(152, 179, 130);
 }
+.relativeDiv{
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+    .absoluteDiv{
+      position: absolute;
+      top: 50px;
+      left: 100px;
+    }
+    .fixedDiv{
+      position: fixed;
+    }
+    
 
     
