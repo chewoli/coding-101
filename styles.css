@@ -40,6 +40,32 @@ padding: 20px;
     .fixedDiv{
       position: fixed;
     }
-    
+    .flex-container{
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      gap: 100px;
+      height: 200px;
+      align-items: flex-end;
+    }
+    .menu-container{
+      color: brown;
+      background-color: hotpink;
+      padding: 20px 5px;
+    }
 
-    
+    .menu{
+      border: 1px solid #ffff; 
+      width: 900px;
+      display: flex;
+      justify-content: space-between;
+    }
+    .links{
+      display: flex;
+
+    }
+
+    .photo-grid{
+      display: flex;
+      flex-wrap: wrap;
+    }
